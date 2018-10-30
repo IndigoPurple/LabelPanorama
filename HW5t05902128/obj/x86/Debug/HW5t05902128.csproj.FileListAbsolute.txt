@@ -1,0 +1,58 @@
+c:\users\金鼎健\documents\visual studio 2010\Projects\HW5t05902128\HW5t05902128\bin\Debug\HW5t05902128.exe
+c:\users\金鼎健\documents\visual studio 2010\Projects\HW5t05902128\HW5t05902128\bin\Debug\HW5t05902128.pdb
+c:\users\金鼎健\documents\visual studio 2010\Projects\HW5t05902128\HW5t05902128\obj\x86\Debug\HW5t05902128.Form1.resources
+c:\users\金鼎健\documents\visual studio 2010\Projects\HW5t05902128\HW5t05902128\obj\x86\Debug\HW5t05902128.Properties.Resources.resources
+c:\users\金鼎健\documents\visual studio 2010\Projects\HW5t05902128\HW5t05902128\obj\x86\Debug\HW5t05902128.csproj.GenerateResource.Cache
+c:\users\金鼎健\documents\visual studio 2010\Projects\HW5t05902128\HW5t05902128\obj\x86\Debug\HW5t05902128.exe
+c:\users\金鼎健\documents\visual studio 2010\Projects\HW5t05902128\HW5t05902128\obj\x86\Debug\HW5t05902128.pdb
+c:\users\金鼎健\documents\visual studio 2010\Projects\HW5t05902128\HW5t05902128\bin\Debug\opencv_ffmpeg310_64.dll
+c:\users\金鼎健\documents\visual studio 2010\Projects\HW5t05902128\HW5t05902128\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+c:\users\金鼎健\documents\visual studio 2010\Projects\HW5t05902128\HW5t05902128\bin\Debug\Emgu.CV.UI.dll
+c:\users\金鼎健\documents\visual studio 2010\Projects\HW5t05902128\HW5t05902128\bin\Debug\Emgu.CV.UI.GL.dll
+c:\users\金鼎健\documents\visual studio 2010\Projects\HW5t05902128\HW5t05902128\bin\Debug\Emgu.CV.World.dll
+c:\users\金鼎健\documents\visual studio 2010\Projects\HW5t05902128\HW5t05902128\bin\Debug\ZedGraph.dll
+c:\users\金鼎健\documents\visual studio 2010\Projects\HW5t05902128\HW5t05902128\bin\Debug\Emgu.CV.UI.xml
+c:\users\金鼎健\documents\visual studio 2010\Projects\HW5t05902128\HW5t05902128\bin\Debug\Emgu.CV.UI.GL.xml
+c:\users\金鼎健\documents\visual studio 2010\Projects\HW5t05902128\HW5t05902128\bin\Debug\Emgu.CV.World.xml
+c:\users\金鼎健\documents\visual studio 2010\Projects\HW5t05902128\HW5t05902128\obj\x86\Debug\HW5t05902128.csprojResolveAssemblyReference.cache
+E:\文件\HWT05902128 - 副本\HW5t05902128\HW5t05902128\obj\x86\Debug\HW5t05902128.exe
+E:\文件\HWT05902128 - 副本\HW5t05902128\HW5t05902128\obj\x86\Debug\HW5t05902128.pdb
+E:\文件\HWT05902128 - 副本\HW5t05902128\HW5t05902128\bin\Debug\opencv_ffmpeg310_64.dll
+E:\文件\HWT05902128 - 副本\HW5t05902128\HW5t05902128\bin\Debug\HW5t05902128.exe
+E:\文件\HWT05902128 - 副本\HW5t05902128\HW5t05902128\bin\Debug\HW5t05902128.pdb
+E:\文件\HWT05902128 - 副本\HW5t05902128\HW5t05902128\bin\Debug\ZedGraph.dll
+E:\文件\HWT05902128 - 副本\HW5t05902128\HW5t05902128\bin\Debug\Emgu.CV.UI.xml
+E:\文件\HWT05902128 - 副本\HW5t05902128\HW5t05902128\bin\Debug\Emgu.CV.UI.GL.xml
+E:\文件\HWT05902128 - 副本\HW5t05902128\HW5t05902128\bin\Debug\Emgu.CV.World.xml
+E:\文件\HWT05902128 - 副本\HW5t05902128\HW5t05902128\obj\x86\Debug\HW5t05902128.csprojResolveAssemblyReference.cache
+E:\文件\HWT05902128 - 副本\HW5t05902128\HW5t05902128\obj\x86\Debug\HW5t05902128.Form1.resources
+E:\文件\HWT05902128 - 副本\HW5t05902128\HW5t05902128\obj\x86\Debug\HW5t05902128.Properties.Resources.resources
+E:\文件\HWT05902128 - 副本\HW5t05902128\HW5t05902128\obj\x86\Debug\HW5t05902128.csproj.GenerateResource.Cache
+C:\Users\金鼎健\Desktop\标定软件\HW5t05902128\obj\x86\Debug\HW5t05902128.exe
+C:\Users\金鼎健\Desktop\标定软件\HW5t05902128\obj\x86\Debug\HW5t05902128.pdb
+C:\Users\金鼎健\Desktop\标定软件\HW5t05902128\bin\Debug\opencv_ffmpeg310_64.dll
+C:\Users\金鼎健\Desktop\标定软件\HW5t05902128\bin\Debug\HW5t05902128.exe
+C:\Users\金鼎健\Desktop\标定软件\HW5t05902128\bin\Debug\HW5t05902128.pdb
+C:\Users\金鼎健\Desktop\标定软件\HW5t05902128\bin\Debug\ZedGraph.dll
+C:\Users\金鼎健\Desktop\标定软件\HW5t05902128\bin\Debug\Emgu.CV.UI.xml
+C:\Users\金鼎健\Desktop\标定软件\HW5t05902128\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\金鼎健\Desktop\标定软件\HW5t05902128\bin\Debug\Emgu.CV.World.xml
+C:\Users\金鼎健\Desktop\标定软件\HW5t05902128\obj\x86\Debug\HW5t05902128.csprojResolveAssemblyReference.cache
+C:\Users\金鼎健\Desktop\标定软件\HW5t05902128\obj\x86\Debug\HW5t05902128.Form1.resources
+C:\Users\金鼎健\Desktop\标定软件\HW5t05902128\obj\x86\Debug\HW5t05902128.Properties.Resources.resources
+C:\Users\金鼎健\Desktop\标定软件\HW5t05902128\obj\x86\Debug\HW5t05902128.csproj.GenerateResource.Cache
+D:\WorkPlace\LabelPanorama\HW5t05902128\bin\Debug\opencv_ffmpeg310_64.dll
+D:\WorkPlace\LabelPanorama\HW5t05902128\bin\Debug\HW5t05902128.exe
+D:\WorkPlace\LabelPanorama\HW5t05902128\bin\Debug\HW5t05902128.pdb
+D:\WorkPlace\LabelPanorama\HW5t05902128\bin\Debug\ZedGraph.dll
+D:\WorkPlace\LabelPanorama\HW5t05902128\bin\Debug\Emgu.CV.UI.xml
+D:\WorkPlace\LabelPanorama\HW5t05902128\bin\Debug\Emgu.CV.UI.GL.xml
+D:\WorkPlace\LabelPanorama\HW5t05902128\bin\Debug\Emgu.CV.World.xml
+D:\WorkPlace\LabelPanorama\HW5t05902128\obj\x86\Debug\HW5t05902128.csprojAssemblyReference.cache
+D:\WorkPlace\LabelPanorama\HW5t05902128\obj\x86\Debug\HW5t05902128.Form1.resources
+D:\WorkPlace\LabelPanorama\HW5t05902128\obj\x86\Debug\HW5t05902128.Properties.Resources.resources
+D:\WorkPlace\LabelPanorama\HW5t05902128\obj\x86\Debug\HW5t05902128.csproj.GenerateResource.cache
+D:\WorkPlace\LabelPanorama\HW5t05902128\obj\x86\Debug\HW5t05902128.csproj.CoreCompileInputs.cache
+D:\WorkPlace\LabelPanorama\HW5t05902128\obj\x86\Debug\HW5t05902128.csproj.CopyComplete
+D:\WorkPlace\LabelPanorama\HW5t05902128\obj\x86\Debug\HW5t05902128.exe
+D:\WorkPlace\LabelPanorama\HW5t05902128\obj\x86\Debug\HW5t05902128.pdb
